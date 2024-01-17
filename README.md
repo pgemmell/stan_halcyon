@@ -6,7 +6,7 @@ The input for the model is a multiple sequence alignment (parameter **X**) and a
 
 Halcyon is implemented using the probabilistic programming language [Stan](https://mc-stan.org/).
 
-## Example model configuartions
+## Example model configurations
 
 The following panels show some possible parameter values under the Halcyon logistic model. The main plot shows how the rate of trait evolution (vertical) is related to the rate of nucleotide evolution (horizontal) via the logistic function. The tree in each panel shows how the rate multipliers scale the nucleotide tree (the branch lengths themselves) and the trait tree (represented by grey triangles).
 
