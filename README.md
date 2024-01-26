@@ -20,8 +20,8 @@ Does the model work? Simulations to recover the direction of association between
 
 ## Installation instructions
 
-[Setup](https://mc-stan.org/users/interfaces/) Stan according to your OS and interface preferences. Use the [stan_halcyon_logistic.stan](https://github.com/pgemmell/stan_halcyon/blob/main/stan_halcyon_logistic.stan) model script and optionally modify the variance function, the priors, or other aspects of the model to your satisfaction. Example simulation scripts are included in the repository, and you can use these as a template for getting started with the model.
+[Setup Stan](https://mc-stan.org/users/interfaces/) according to your OS and interface preferences. Use the [stan_halcyon_logistic.stan](https://github.com/pgemmell/stan_halcyon/blob/main/stan_halcyon_logistic.stan) model script and optionally modify the variance function, the priors, or other aspects of the model to your satisfaction. Example simulation scripts are included in the repository, and you can use these as a template for getting started with the model.
 
 ## Further information
 
-A document describing the method is coming soon. Watch this space!
+A [document](https://www.biorxiv.org/content/10.1101/2024.01.23.576950v1) describing the method is available at bioRxiv. 
